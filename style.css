@@ -127,9 +127,9 @@ nav > ul > li > a {
   .hidden {
     display: none;
   }
-  .header {
+/*   .header {
     height: 100vh;
-  }
+  } */
 
    #banner-title{
     font-size: 2rem;
