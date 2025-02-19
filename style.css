@@ -156,6 +156,26 @@ nav > ul > li > a {
     justify-content: center;
     align-items: center;
   }
+
+    #login-body>ul>li{
+    font-size: 15px;
+    padding: var(--padding);
+    text-align: center;
+  }
+  
+  #login-body button, #login-input{
+    padding: var(--padding);
+    font-size: 15px;
+  }
+
+  #linp{
+    font-size: 15px;
+  }
+
+  #login-body{
+    width: 250px;
+  }
+}
 }
 
 @media (max-width: 600px) {
@@ -184,6 +204,26 @@ nav > ul > li > a {
     justify-content: center;
     align-items: center;
   }
+
+    #login-body>ul>li{
+    font-size: 15px;
+    padding: var(--padding);
+    text-align: center;
+  }
+  
+  #login-body button, #login-input{
+    padding: var(--padding);
+    font-size: 15px;
+  }
+
+  #linp{
+    font-size: 15px;
+  }
+
+  #login-body{
+    width: 250px;
+  }
+}
 }
 
 /* nav endss here */
