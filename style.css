@@ -131,6 +131,10 @@ nav > ul > li > a {
     height: 100vh;
   }
 
+   #banner-title{
+    font-size: 2rem;
+  }
+
   #main_lower {
     grid-template-columns: auto auto;
   }
@@ -147,6 +151,10 @@ nav > ul > li > a {
 
   .main-upper {
     flex-direction: column;
+  }
+
+   #banner-title{
+    font-size: 2rem;
   }
 }
 
