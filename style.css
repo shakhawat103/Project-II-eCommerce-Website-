@@ -142,6 +142,20 @@ nav > ul > li > a {
   .main-upper {
     flex-direction: column;
   }
+
+#fb-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #insta-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 @media (max-width: 600px) {
@@ -155,6 +169,20 @@ nav > ul > li > a {
 
    #banner-title{
     font-size: 2rem;
+  }
+
+  #fb-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  #insta-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
   }
 }
 
